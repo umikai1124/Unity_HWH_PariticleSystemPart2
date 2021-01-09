@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1368
     height: 840
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -102,7 +102,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 34
+  controlID: 112
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -175,7 +175,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 60
+  controlID: 113
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -332,21 +332,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/RB_Sword_Pack/Materials
+    - "Assets/\u30B9\u30AD\u30F3"
     m_Globs: []
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/RB_Sword_Pack/Materials
+  - "Assets/\u30B9\u30AD\u30F3"
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\Umi\Desktop\Unity_HWH_PariticleSystemPart2\PariticleSystemPart2
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 46370000
-    m_LastClickedID: 14150
-    m_ExpandedIDs: 00000000303700003e37000000ca9a3b
+    m_SelectedIDs: 3a370000
+    m_LastClickedID: 14138
+    m_ExpandedIDs: 00000000303700003437000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -557,9 +557,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.3938644, y: 1.0895853, z: 0.42801666}
+    m_Target: {x: -0.25585198, y: 0.25154293, z: 0.2732703}
     speed: 2
-    m_Value: {x: -0.3938644, y: 1.0895853, z: 0.42801666}
+    m_Value: {x: -0.25585198, y: 0.25154293, z: 0.2732703}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -606,13 +606,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.015302449, y: 0.41371667, z: -0.0069549284, w: -0.9102514}
+    m_Target: {x: -0.19781329, y: 0.500764, z: -0.118735865, w: -0.8342727}
     speed: 2
-    m_Value: {x: -0.01530245, y: 0.4137167, z: -0.0069549284, w: -0.91025144}
+    m_Value: {x: -0.19816823, y: 0.49825796, z: -0.118141666, w: -0.8357696}
   m_Size:
-    m_Target: 1.3270538
+    m_Target: 3.1270535
     speed: 2
-    m_Value: 1.3270538
+    m_Value: 2.8270535
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -666,9 +666,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: dc360000
-      m_LastClickedID: 14044
-      m_ExpandedIDs: 5efbffff60fbffff
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 5efbffff60fbffffdc360000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
