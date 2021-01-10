@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1368
     height: 840
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Game
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
@@ -99,10 +99,10 @@ MonoBehaviour:
     y: 30
     width: 1368
     height: 790
-  m_MinSize: {x: 709, y: 492}
-  m_MaxSize: {x: 18004, y: 14042}
+  m_MinSize: {x: 708, y: 492}
+  m_MaxSize: {x: 18003, y: 14042}
   vertical: 0
-  controlID: 35
+  controlID: 44
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -176,7 +176,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 81
+  controlID: 70
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -196,8 +196,8 @@ MonoBehaviour:
     y: 0
     width: 435
     height: 790
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -459,7 +459,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 417
   m_AssetGUID: 
   m_InstanceID: 0
   m_LockTracker:
@@ -504,21 +504,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - "Assets/\u30B9\u30AD\u30F3"
+    - Assets
     m_Globs: []
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - "Assets/\u30B9\u30AD\u30F3"
+  - Assets
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\Umi\Desktop\Unity_HWH_PariticleSystemPart2\PariticleSystemPart2
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 3e380000
-    m_LastClickedID: 14398
-    m_ExpandedIDs: 000000001e38000000ca9a3b
+    m_SelectedIDs: 2a380000
+    m_LastClickedID: 14378
+    m_ExpandedIDs: 000000002a38000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -546,7 +546,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001e380000
+    m_ExpandedIDs: 000000002a380000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -573,7 +573,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -639,9 +639,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 3.156711, y: -1.682492, z: -1.6514316}
+    m_Target: {x: -4.0666885, y: -3.1840649, z: 2.8779364}
     speed: 2
-    m_Value: {x: 3.156711, y: -1.682492, z: -1.6514316}
+    m_Value: {x: -4.0666885, y: -3.1840649, z: 2.8779364}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -688,13 +688,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.15721776, y: -0.7988325, z: 0.23691432, w: -0.5301238}
+    m_Target: {x: -0.22978109, y: 0.3661406, z: -0.09380328, w: -0.89685816}
     speed: 2
-    m_Value: {x: -0.15543571, y: -0.80278176, z: 0.23808555, w: -0.524115}
+    m_Value: {x: -0.22977972, y: 0.36613843, z: -0.09380272, w: -0.8968528}
   m_Size:
-    m_Target: 3.6562548
+    m_Target: 7.0396338
     speed: 2
-    m_Value: 3.6562548
+    m_Value: 7.0396338
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -747,10 +747,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 318}
-      m_SelectedIDs: c8f9ffff
-      m_LastClickedID: -1592
-      m_ExpandedIDs: 52fbffff54fbffff60fbfffffa3600000a3700001c3700002037000022370000243700002a3700002c37000032370000363700003a3700003c370000463700004a3700005037000054370000583700005c3700005e37000060370000663700006a370000823700008837000098370000a0370000a2370000a4370000a8370000
+      scrollPos: {x: 0, y: 158}
+      m_SelectedIDs: 1eb6ffff
+      m_LastClickedID: -18914
+      m_ExpandedIDs: 54fbffff56fbffff60fbffff0237000016370000283700002c3700002e3700003037000036370000383700004837000052370000563700005c3700006037000064370000683700006a3700006c37000072370000763700008e37000094370000a4370000ac370000ae370000b0370000b4370000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
